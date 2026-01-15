@@ -1,49 +1,76 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=67D48D5&textBg=false&section=header&rotate=3&fontSize=77&desc=A%20Full%20Stack%20Developer&reversal=false&fontAlignY=37&descAlignY=49&animation=twinkling)
+<!-- markdownlint-disable MD033 MD041 MD045 -->
 
-<h3 align="center">👋 Hello, World! 👋</h3>
-<p align="center">
-I'm a <strong>freelance full-stack developer</strong> and an undergraduate student in a computer-related department.
-<br>
-Passionate about crafting scalable, high-performance apps that feel as good as they run.
-</p>
+<!-- Capsule Render Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=67D48D5&fontSize=78&fontAlignY=35&desc=Performance-First%20Full-Stack%20Developer&descAlignY=52&animation=twinkling)
 
----
+<div align="center">
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3590F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Undergraduate;Rust+%26+Cloud+Enthusiast" />
+  </a>
 
-<h3 align="center">📚 Technology Stacks 📚</h3>
+  <!-- Spacer -->
+  <br>
 
-<p align="center">
-  <strong>💻 Programming Languages 💻</strong><br>
-  <img src="https://img.shields.io/badge/-Rust-blueviolet" />&nbsp
-  <img src="https://img.shields.io/badge/-C%20Family-lightblue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Swift-yellow"/>&nbsp
-</p>
+  <!-- Navigation -->
+  <a href="docs/Projects.md">
+    <img src="https://img.shields.io/badge/Projects-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="docs/Architecture.md">
+    <img src="https://img.shields.io/badge/Architecture-374151?style=for-the-badge&logo=apache&logoColor=white" />
+  </a>
+  <a href="docs/Performance.md">
+    <img src="https://img.shields.io/badge/Performance-4b5563?style=for-the-badge&logo=lightning&logoColor=white" />
+  </a>
+  <a href="docs/Stacks.md">
+    <img src="https://img.shields.io/badge/Stacks-6b7280?style=for-the-badge&logo=stackshare&logoColor=white" />
+  </a>
 
-<p align="center">
-  <strong>🛠️ Frameworks & Libraries 🛠️</strong><br>
-  <img src="https://img.shields.io/badge/-Actix-brightgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Django-forestgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-React%20Native-deepskyblue"/>&nbsp
-  <img src="https://img.shields.io/badge/-SwiftUI-yellow"/>&nbsp
-</p>
+  <!-- Spacer -->
+  <br>
 
-<p align="center">
-  <strong>☁️ Tools & Platforms ☁️</strong><br>
-  <img src="https://img.shields.io/badge/-AWS-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nginx-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Jenkins-lightgray"/>&nbsp
-</p>
+  <!-- About Me -->
+  <p>
+    Passionate about crafting scalable, high-performance apps that feel as good as they run.<br/>
+    Currently focusing on <b>System Architecture</b>, <b>Rust</b>, and <b>AWS Cloud</b>.
+  </p>
 
-<p align="center">
-  <strong>📂 Databases 📂</strong><br>
-  <img src="https://img.shields.io/badge/-DynamoDB-4053D6"/>&nbsp
-  <img src="https://img.shields.io/badge/-PostgreSQL-blueviolet"/>&nbsp
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-MariaDB-navy"/>&nbsp
-</p>
+  <!-- Spacer -->
+  <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&section=footer)
+  <!-- Featured Projects -->
+  <h3>⏅ Featured Projects ⏅</h3>
+
+  <a href="https://github.com/67D48D5/uRing">
+    <img src="https://img.shields.io/badge/uRing-Serverless_Data_Pipeline-blueviolet?style=for-the-badge&logo=rust&logoColor=white" />
+  </a>
+  <a href="https://github.com/67D48D5/wBus">
+    <img src="https://img.shields.io/badge/wBus-Realtime_Map_%26_Cache-2563eb?style=for-the-badge&logo=mapbox&logoColor=white" />
+  </a>
+  <a href="https://github.com/67D48D5/Everest">
+    <img src="https://img.shields.io/badge/Everest-Termux_Based_Minecraft_Server-059669?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://github.com/67D48D5/Ferro">
+    <img src="https://img.shields.io/badge/Ferro-Rust_Based_Backend-f97316?style=for-the-badge&logo=rust&logoColor=white" />
+  </a>
+
+  <!-- Spacer -->
+  <br>
+
+  <!-- Contact Me -->
+  <h3>𝌕 Contact 𝌕</h3>
+
+  <a href="mailto:kernel@yonsei.ac.kr">
+    <img src="https://img.shields.io/badge/Email-Contact_Me_via_Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/0b7f1cd">
+    <img src="https://img.shields.io/badge/@0b7f1cd-Visit_My_Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+
+  <!-- Spacer -->
+  <br>
+</div>
+
+<!-- Capsule Render Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
