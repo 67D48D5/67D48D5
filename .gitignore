@@ -1,2 +1,3 @@
-# Remove macOS Resource Forks
+# .gitignore
+
 .DS_Store
