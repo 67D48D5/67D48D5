@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 MD045 -->
 
 <!-- Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=67D48D5&fontSize=78&fontAlignY=35&desc=Performance-First%20Full-Stack%20Developer&descAlignY=52&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=67D48D5&rotate=3&fontSize=78&fontAlignY=35&desc=Performance-First%20Full-Stack%20Developer&descAlignY=52&animation=twinkling)
 
 <div align="center">
   <!-- Typing SVG -->
