@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 MD045 -->
 
 <!-- Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=67D48D5&rotate=3&fontSize=78&fontAlignY=35&desc=Performance-First%20Full-Stack%20Developer&descAlignY=52&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=F911E41&rotate=3&fontSize=78&fontAlignY=35&desc=Performance-First%20Full-Stack%20Developer&descAlignY=52&animation=twinkling)
 
 <div align="center">
   <!-- Typing SVG -->
@@ -41,16 +41,16 @@
   <!-- Featured Projects -->
   <h3>⏅ Featured Projects ⏅</h3>
 
-  <a href="https://github.com/67D48D5/uRing">
+  <a href="https://github.com/F911E41/uRing">
     <img src="https://img.shields.io/badge/uRing-Serverless_Data_Pipeline-blueviolet?style=for-the-badge&logo=rust&logoColor=white" />
   </a>
-  <a href="https://github.com/67D48D5/wBus">
+  <a href="https://github.com/F911E41/wBus">
     <img src="https://img.shields.io/badge/wBus-Realtime_Map_%26_Cache-2563eb?style=for-the-badge&logo=mapbox&logoColor=white" />
   </a>
-  <a href="https://github.com/67D48D5/Everest">
+  <a href="https://github.com/F911E41/Everest">
     <img src="https://img.shields.io/badge/Everest-Termux_Based_Minecraft_Server-059669?style=for-the-badge&logo=android&logoColor=white" />
   </a>
-  <a href="https://github.com/67D48D5/Ferro">
+  <a href="https://github.com/F911E41/Ferro">
     <img src="https://img.shields.io/badge/Ferro-Rust_Based_Backend-f97316?style=for-the-badge&logo=rust&logoColor=white" />
   </a>
 

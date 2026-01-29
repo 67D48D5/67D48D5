@@ -4,16 +4,16 @@
 
 > A curated index of projects focused on **performance**, **reliability**, and **clean architecture**.
 
-<a href="https://github.com/67D48D5/uRing">
+<a href="https://github.com/F911E41/uRing">
     <img src="https://img.shields.io/badge/uRing-Serverless_Data_Pipeline-blueviolet?style=for-the-badge&logo=rust&logoColor=white" />
 </a>
-<a href="https://github.com/67D48D5/wBus">
+<a href="https://github.com/F911E41/wBus">
     <img src="https://img.shields.io/badge/wBus-Realtime_Map_%26_Cache-2563eb?style=for-the-badge&logo=mapbox&logoColor=white" />
 </a>
-<a href="https://github.com/67D48D5/Everest">
+<a href="https://github.com/F911E41/Everest">
     <img src="https://img.shields.io/badge/Everest-Termux_Minecraft_Server-059669?style=for-the-badge&logo=android&logoColor=white" />
 </a>
-<a href="https://github.com/67D48D5/Ferro">
+<a href="https://github.com/F911E41/Ferro">
     <img src="https://img.shields.io/badge/Ferro-Rust_Based_Backend-f97316?style=for-the-badge&logo=rust&logoColor=white" />
 </a>
 
@@ -23,25 +23,25 @@
 
 - **What:** University notice ingestion + dedup + snapshot distribution
 - **Keywords:** Lambda-first · S3 snapshots · atomic pointer rotation · idempotency
-- **Link:** <https://github.com/67D48D5/uRing>
+- **Link:** <https://github.com/F911E41/uRing>
 
 ### wBus / Realtime Map & Micro-caching
 
 - **What:** Real-time transit tracking with smooth UX
 - **Keywords:** micro-cache · linear interpolation · latency stabilization
-- **Link:** <https://github.com/67D48D5/wBus>
+- **Link:** <https://github.com/F911E41/wBus>
 
 ### Everest / Termux-based Minecraft Server
 
 - **What:** Mobile-first server ops playground (Termux + infra automation)
 - **Keywords:** self-hosting · ops · automation · resource constraints
-- **Link:** <https://github.com/67D48D5/Everest>
+- **Link:** <https://github.com/F911E41/Everest>
 
 ### Ferro / Rust-based Backend
 
 - **What:** Backend architecture experiments and production-style structure
 - **Keywords:** API design · modules · correctness · performance
-- **Link:** <https://github.com/67D48D5/Ferro>
+- **Link:** <https://github.com/F911E41/Ferro>
 
 ---
 
